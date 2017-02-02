@@ -1,6 +1,0 @@
-http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-
-1. Initialize a git repo in the root of a folder with the command :
-	git init
-
-2. Add a new file to the repo
